@@ -68,6 +68,12 @@ function App() {
             <Text color='#BBE1FA' fontSize='lg'>
               Currently I&apos;m studying at Multimedia Nusantara University. I&apos;m seeking an opportunity to learn and challenge myself to become a world class <b style={{ color: '#3282B8' }}>Apple Developer</b>. I&apos;m avid apple user and I&apos;m extremely motivated to learn about <b style={{ color: '#3282B8' }}>Apple Development Environment</b>
             </Text>
+            <Text color='#BBE1FA' fontSize='lg' mt='20px' fontWeight='bold'>
+              Email : richie.oey88@gmail.com
+            </Text>
+            <Text color='#BBE1FA' fontSize='lg' mt='20px' fontWeight='bold'>
+              Mobile : +62 811-7810-138
+            </Text>
           </Box>
         </Flex>
       </Box>
@@ -184,7 +190,7 @@ function App() {
             </a>
           </GridItem>
           <GridItem colSpan={6} overflow='hidden' _hover={{ bg: 'rgb(15, 76, 117, 0.1)' }} cursor='pointer'>
-            <a href={"https://www.figma.com/proto/8tqxOjPdkqxVNghEg93pM9/KERJA-BORONGAN?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1"}>
+            <a href={"https://www.figma.com/proto/sSKylXX017iwWUgIWVcxHr/AI?node-id=8%3A3&starting-point-node-id=8%3A3"}>
               <Flex direction='column' justifyContent='center' w='100%' boxShadow='xl'>
                 <img src={myumn} alt='project1' style={{ width: "100%", height: "350px" }} />
                 <Heading px='20px' color='#3282B8' size='xl' mt='30px'>MY UMN</Heading>
